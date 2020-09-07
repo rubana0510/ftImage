@@ -2,10 +2,10 @@
 
 buildscript {
 
-    ext.compileSdkVersion = 27
+    ext.compileSdkVersion = 29
     ext.buildToolsVersion = '27.0.3'
     ext.minSdkVersion = 16
-    ext.targetSdkVersion = 27
+    ext.targetSdkVersion = 29
     ext.supportVersion = '27.1.1'
 
     repositories {
